@@ -105,7 +105,7 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <div>Built by Al Fahad Alom Tawsyat</div>
+        <div>Built by Al Fahad</div>
 
         {githubInfo.stars && githubInfo.forks && (
           <div className="github-stats">
